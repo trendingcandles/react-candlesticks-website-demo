@@ -1,14 +1,13 @@
 # react-candlesticks website demo
 
-This Vite example is a standalone copy of the demo page from
-`trendingcandles-website/`.
+This example uses React, TypeScript, Vite, and `react-candlesticks` to build an
+interactive trading chart demo.
 
 It demonstrates:
 
 - Candle, OHLC, and area series modes
 - Volume, overlay indicators, and multi-panel indicator layouts
 - Built-in light and dark themes
-- Pan, zoom, and scale smoothing from `react-candlesticks`
 
 ## Run locally
 
@@ -21,7 +20,7 @@ Then open the local Vite URL shown in your terminal.
 
 ## Links
 
-- [react-candlesticks on npm](https://www.npmjs.com/package/react-candlesticks)
+- [reactcandlesticks.com](https://reactcandlesticks.com/)
 - [Documentation](https://docs.reactcandlesticks.com/docs/)
-- [Library source](https://github.com/trendingcandles/react-candlesticks)
-- [Project website](https://reactcandlesticks.com/)
+- [react-candlesticks GitHub](https://github.com/trendingcandles/react-candlesticks)
+- [react-candlesticks npm](https://www.npmjs.com/package/react-candlesticks)
